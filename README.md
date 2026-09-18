@@ -27,7 +27,7 @@
 
 - Frontend: JavaScript, React.js ...
 - Backend: Express.js, PrismaORM ...
-- Database: ?
+- Database: postgreSQL
 - 공통 Tool: Git & Github, Discord, zep, ...
 
 ---
@@ -46,15 +46,7 @@
 
 ### 김숙연
 
-(자신이 개발한 기능에 대한 사진이나 gif 파일 첨부)
-
-- **Nav**
-    - 회원별 버튼 조건부 렌더링(학생: 커리어, 스킬, 수강후기, 커뮤니티, 관리자: 회원 관리 관리자 페이지)
-    - 반응형 레이아웃 구현
-- **메인페이지**
-    - fetch(POST, GET)을 사용하여 무료 수강 종료 시간 기능 구현
-- **공용 Modal 컴포넌트**
-    - 공용으로 사용할 Modal 컴포넌트 구현
+- 상세페이지에 사용하는 API 요청·응답 형식 검토
 
 ### 이승현
 
